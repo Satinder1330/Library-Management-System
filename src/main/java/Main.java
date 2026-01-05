@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         while(true){
+
             System.out.println("\n-WELCOME TO KNOWLEDGE LIBRARY-");
             System.out.println("PRESS 1 TO LOGIN AS LIBRARIAN");
             System.out.println("PRESS 2 TO LOGIN AS A MEMBER ");
