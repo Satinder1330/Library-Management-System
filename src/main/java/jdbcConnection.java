@@ -19,7 +19,7 @@ public class jdbcConnection {
                 properties.load(input);
             }
         } catch (IOException ex) {
-            ex.printStackTrace();
+            System.out.println(ex.getMessage());
         }
     }
 
